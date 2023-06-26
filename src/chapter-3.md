@@ -1,4 +1,4 @@
-Chapter: Preparing for AI Writing Coaching
+Preparing for AI Writing Coaching
 ==========================================
 
 In this chapter, we will explore the steps writers can take to prepare for AI writing coaching.

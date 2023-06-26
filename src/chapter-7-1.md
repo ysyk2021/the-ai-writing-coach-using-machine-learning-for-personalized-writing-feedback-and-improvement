@@ -16,7 +16,7 @@ Machine learning algorithms are at the core of many AI writing tools. These algo
 Virtual Writing Assistants
 --------------------------
 
-Virtual writing assistants are AI-powered programs that can assist writers in real-time with suggestions for improvement. Some virtual writing assistants, such as the OpenAI GPT-3 model, can even generate entire paragraphs or articles based on prompts from the user. In the future, we can expect to see virtual writing assistants become even more advanced and personalized, providing customized feedback to each individual writer.
+Virtual writing assistants are AI-powered programs that can assist writers in real-time with suggestions for improvement. Some virtual writing assistants, such as the OpenAI GPT-3.5 model, can even generate entire paragraphs or articles based on prompts from the user. In the future, we can expect to see virtual writing assistants become even more advanced and personalized, providing customized feedback to each individual writer.
 
 Augmented Reality Writing Tools
 -------------------------------

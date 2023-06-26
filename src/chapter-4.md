@@ -1,4 +1,4 @@
-Chapter: Working with an AI Writing Coach
+Working with an AI Writing Coach
 =========================================
 
 In this chapter, we will explore how to work with an AI writing coach, including getting started, receiving personalized feedback and suggestions, and tracking progress and improvement.

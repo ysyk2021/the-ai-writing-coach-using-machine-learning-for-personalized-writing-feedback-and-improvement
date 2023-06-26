@@ -1,4 +1,4 @@
-Chapter: Understanding AI Writing Tools
+Understanding AI Writing Tools
 =======================================
 
 In this chapter, we will explore the different types of AI writing tools, their benefits and limitations, and how to choose the right tool for your needs.
