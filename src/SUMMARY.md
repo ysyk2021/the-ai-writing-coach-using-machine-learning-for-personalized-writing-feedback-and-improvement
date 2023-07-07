@@ -3,7 +3,6 @@
 - [Introduction](README.md)
   - [The importance of personalized feedback in writing](chapter-1-1.md)
   - [The potential of AI technology to enhance writing improvement](chapter-1-2.md)
-  - [Overview of the book's content](chapter-1-3.md)
 - [Understanding AI Writing Tools](chapter-2.md)
   - [Types of AI writing tools](chapter-2-1.md)
   - [Benefits and limitations of each tool](chapter-2-2.md)
