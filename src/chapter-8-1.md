@@ -1,5 +1,3 @@
-Recap of Key Takeaways
-==================================
 
 Writing is an essential skill in both personal and professional settings. The use of AI technology can provide personalized writing feedback and improvement to help individuals become better writers. Here are the key takeaways from this book:
 

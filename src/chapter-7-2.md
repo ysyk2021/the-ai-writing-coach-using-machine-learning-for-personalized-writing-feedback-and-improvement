@@ -1,5 +1,3 @@
-Predictions for the Future of AI-Powered Writing Improvement
-========================================================================================================
 
 In this chapter, we will explore some predictions for the future of AI writing coaching and how it may evolve in the coming years.
 

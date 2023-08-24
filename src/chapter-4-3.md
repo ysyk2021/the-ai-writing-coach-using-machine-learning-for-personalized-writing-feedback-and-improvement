@@ -1,5 +1,3 @@
-Tracking Progress and Improvement
-============================================================================
 
 In this chapter, we will explore the importance of tracking progress and improvement when working with an AI writing coach.
 

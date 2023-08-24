@@ -1,5 +1,3 @@
-Overcoming Resistance to AI Adoption
-==================================================================================
 
 Despite the potential benefits of AI writing coaching, some individuals may be resistant to adopting this technology. Here are some strategies for overcoming resistance to AI adoption:
 

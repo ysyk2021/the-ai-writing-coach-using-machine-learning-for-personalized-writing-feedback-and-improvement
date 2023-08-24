@@ -1,5 +1,3 @@
-Setting Clear Goals and Expectations
-================================================================================
 
 In this chapter, we will explore how to prepare for AI writing coaching by setting clear goals and expectations. By identifying specific areas of writing to improve and clarifying expectations for using AI writing tools, writers can maximize the benefits of AI writing coaching.
 

@@ -1,5 +1,3 @@
-Choosing the Right AI Tool for Your Needs
-==================================================================================
 
 In this chapter, we will explore the process of choosing the right AI writing tool for your specific needs.
 

@@ -1,5 +1,3 @@
-Working with an AI Writing Coach
-=========================================
 
 In this chapter, we will explore how to work with an AI writing coach, including getting started, receiving personalized feedback and suggestions, and tracking progress and improvement.
 
@@ -32,5 +30,4 @@ Conclusion
 ----------
 
 Working with an AI writing coach can lead to more efficient and effective improvements in writing skills. Remember to select an AI writing tool that suits your needs, set specific goals for improvement, incorporate human feedback, use AI-generated suggestions, track your progress over time, reflect on feedback, and celebrate successes along the way. By working with an AI writing coach, you can achieve your writing goals and become a more proficient writer.
-
 

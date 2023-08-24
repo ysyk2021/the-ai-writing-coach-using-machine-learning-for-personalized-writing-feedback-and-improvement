@@ -1,5 +1,3 @@
-Identifying Your Strengths and Weaknesses as a Writer
-=================================================================================================
 
 In this chapter, we will explore how to prepare for AI writing coaching by identifying your strengths and weaknesses as a writer.
 

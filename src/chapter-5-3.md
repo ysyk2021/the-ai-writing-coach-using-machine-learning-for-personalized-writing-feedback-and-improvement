@@ -1,5 +1,3 @@
-Balancing AI and Human Input for Optimal Outcomes
-==============================================================================================================
 
 In this chapter, we will explore the benefits of combining AI writing coaching with human expertise, and how to balance these inputs for optimal outcomes.
 

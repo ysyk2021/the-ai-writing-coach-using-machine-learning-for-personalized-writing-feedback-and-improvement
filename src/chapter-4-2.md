@@ -1,5 +1,3 @@
-Receiving Personalized Feedback and Suggestions
-=================================================================================
 
 An AI writing coach can provide personalized feedback and suggestions to help individuals improve their writing skills. Here are some tips for working with an AI writing coach:
 

@@ -1,5 +1,3 @@
-Getting Started with the AI Coach
-===================================================================
 
 Getting started with an AI writing coach can be a valuable tool for improving your writing skills. Here are some steps to help you get started:
 
@@ -37,5 +35,4 @@ Conclusion
 ----------
 
 Getting started with an AI writing coach can provide personalized feedback and suggestions to help individuals improve their writing skills. By choosing the right tool, understanding how the tool works, setting up your account, submitting your writing, reviewing feedback, and developing a routine, individuals can effectively incorporate AI technology into their writing practice.
-
 

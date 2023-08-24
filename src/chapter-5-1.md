@@ -1,5 +1,3 @@
-The Role of Human Expertise in AI-Assisted Writing Coaching
-========================================================================================================================
 
 In this chapter, we will explore the role of human expertise in AI-assisted writing coaching and the benefits of combining AI and human feedback.
 

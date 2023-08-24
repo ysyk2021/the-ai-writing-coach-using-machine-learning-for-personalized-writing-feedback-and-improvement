@@ -1,5 +1,3 @@
-Benefits and Limitations of Each Tool
-==============================================================================
 
 In this chapter, we will explore the benefits and limitations of each type of AI writing tool.
 

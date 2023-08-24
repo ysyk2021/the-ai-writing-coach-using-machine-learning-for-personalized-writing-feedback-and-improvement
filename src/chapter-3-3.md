@@ -1,5 +1,3 @@
-Developing a Plan for AI Coaching
-=============================================================================
 
 In this chapter, we will explore how to prepare for AI writing coaching and develop a plan for incorporating AI writing tools into your writing practice.
 

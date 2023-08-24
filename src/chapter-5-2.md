@@ -1,5 +1,3 @@
-Leveraging AI to Enhance Human Feedback and Guidance
-=================================================================================================================
 
 In this chapter, we will explore how writers can leverage AI writing coaching to enhance human feedback and guidance.
 

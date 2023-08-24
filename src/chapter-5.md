@@ -1,5 +1,3 @@
-Combining AI Writing Coaching with Human Expertise
-===========================================================
 
 In this chapter, we will explore the role of human expertise in AI-assisted writing coaching, how to leverage AI to enhance human feedback and guidance, and how to balance AI and human input for optimal outcomes.
 

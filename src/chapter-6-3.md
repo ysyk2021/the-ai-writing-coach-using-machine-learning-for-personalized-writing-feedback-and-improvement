@@ -1,5 +1,3 @@
-Mitigating the Risk of Over-Reliance on AI Tools
-=======================================================================================================
 
 In this chapter, we will explore the risk of over-reliance on AI tools in writing coaching and strategies for mitigating these risks.
 
