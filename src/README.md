@@ -12,3 +12,7 @@ Finally, we will provide guidance on how to prepare for AI writing coaching by i
 By following the guidance provided in this book, writers can use AI writing coaching to achieve targeted and effective improvements in their writing skills. With the rise of AI writing tools and coaching, writers now have access to more sophisticated and personalized feedback on their writing than ever before.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
