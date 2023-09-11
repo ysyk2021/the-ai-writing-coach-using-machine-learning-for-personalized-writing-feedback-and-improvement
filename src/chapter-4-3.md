@@ -1,5 +1,4 @@
-Chapter 6: Tracking Progress and Improvement
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of tracking your progress and improvement when using AI writing coaches. Effective tracking allows you to measure your growth as a writer, identify areas of development, and make informed decisions to enhance your writing skills.
 

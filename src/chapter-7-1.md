@@ -1,5 +1,4 @@
-Chapter 9: Emerging Trends in AI Technology for Writing Coaching
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the cutting-edge developments and emerging trends in AI technology as it pertains to writing coaching. Stay ahead of the curve by discovering the latest innovations that are shaping the future of AI-assisted writing improvement.
 

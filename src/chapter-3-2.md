@@ -1,5 +1,4 @@
-Chapter 13: Identifying Your Strengths and Weaknesses as a Writer
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial process of self-assessment to help you gain a deeper understanding of your strengths and weaknesses as a writer. Recognizing your areas of proficiency and areas needing improvement is a vital step in your writing journey.
 

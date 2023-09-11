@@ -1,5 +1,4 @@
-Chapter 10: Leveraging AI to Enhance Human Feedback and Guidance
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the symbiotic relationship between AI and human feedback and guidance in the realm of writing improvement. Discover how AI can empower human editors, teachers, and mentors to provide more informed and effective assistance to writers.
 

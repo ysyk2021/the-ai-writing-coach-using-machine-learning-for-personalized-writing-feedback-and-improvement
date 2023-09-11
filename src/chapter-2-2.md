@@ -1,5 +1,4 @@
-Chapter 7: Benefits and Limitations of Each Tool
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will conduct an in-depth examination of the benefits and limitations associated with various AI writing coach tools. Understanding the strengths and weaknesses of each tool is essential for making informed decisions about which one aligns best with your specific writing goals and preferences.
 

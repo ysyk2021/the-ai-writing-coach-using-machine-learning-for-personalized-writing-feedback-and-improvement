@@ -1,5 +1,4 @@
-Chapter 2: Getting Started with the AI Coach
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we'll guide you through the initial steps to begin your journey with the AI writing coach. Whether you're a seasoned writer looking to enhance your skills or someone new to the world of AI-assisted writing, this chapter will help you get started on the right track.
 

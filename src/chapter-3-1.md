@@ -1,5 +1,4 @@
-Chapter 14: Setting Clear Goals and Expectations
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the importance of setting clear goals and expectations for your writing journey with the aid of an AI writing coach. Establishing well-defined objectives is a key step in maximizing the benefits of personalized writing feedback and improvement.
 

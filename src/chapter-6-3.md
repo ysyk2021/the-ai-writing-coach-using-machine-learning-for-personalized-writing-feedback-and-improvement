@@ -1,5 +1,4 @@
-Chapter 5: Mitigating the Risk of Over-reliance on AI Tools
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential pitfalls of relying too heavily on AI writing coaches and provide strategies to maintain a healthy balance between AI assistance and human creativity. While AI can be a valuable writing companion, it's essential to mitigate the risk of over-reliance to preserve the authenticity and creativity in your writing.
 

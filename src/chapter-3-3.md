@@ -1,5 +1,4 @@
-Chapter 12: Developing a Plan for AI Coaching
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will guide you through the process of developing a strategic plan for effectively utilizing AI coaching to enhance your writing skills. By following a structured approach, you can maximize the benefits of AI-powered writing assistance.
 

@@ -1,5 +1,4 @@
-Chapter 8: Balancing AI and Human Input for Optimal Outcomes
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the synergistic relationship between AI and human input in the quest for superior writing outcomes. Discover how the harmonious collaboration of AI and human expertise can elevate your writing to new heights, combining the strengths of both worlds.
 

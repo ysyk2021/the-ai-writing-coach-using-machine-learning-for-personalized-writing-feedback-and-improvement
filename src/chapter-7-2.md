@@ -1,5 +1,4 @@
-Chapter 11: Predictions for the Future of AI-Powered Writing Improvement
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting possibilities and speculate on the future of AI-powered writing improvement. Delve into the potential innovations and trends that may reshape how writers receive feedback and enhance their writing skills.
 

@@ -1,5 +1,4 @@
-Chapter 4: Receiving Personalized Feedback and Suggestions
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the heart of the AI writing coach experience - receiving personalized feedback and suggestions. You will discover how AI can analyze your writing, provide tailored recommendations, and ultimately help you become a more proficient and confident writer.
 

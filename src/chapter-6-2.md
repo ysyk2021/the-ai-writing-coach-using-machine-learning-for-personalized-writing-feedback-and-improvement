@@ -1,5 +1,4 @@
-Chapter 3: Overcoming Resistance to AI Adoption
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common challenges and obstacles that individuals and organizations may face when considering the adoption of AI for writing feedback and improvement. Understanding these barriers and learning how to overcome them is essential for successfully integrating AI into your writing process.
 
